@@ -1,4 +1,5 @@
-[
+{
+    "movie" : [
     {
         "id": 100,
         "title": "Kingsglaive",
@@ -44,4 +45,5 @@
         "imageUrl": "../images/Resident_Evil_Vendetta.jpg",
         "rating": 4.2
     }
-]
+  ]
+}
